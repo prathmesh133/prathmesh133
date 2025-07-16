@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh133&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh133" /> </p>
 
 - 📫 How to reach me **prathmeshumredkar23@gmail.com**
-- LinkedIn Profile:**https://www.linkedin.com/in/prathmesh-umredkar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
